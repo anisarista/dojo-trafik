@@ -1,6 +1,6 @@
 var bosok = 'http://ojondugaleram';var sipoet = 'http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=';
 var ondo = 'tagcilik';var ekrak = '&linkCode=ur2&tag=';
-var ojekbuting = '&url=search-alias%3Daps&linkId=M4HLNJS4ZV3KNVEV';var gendongbuting = '';
+var ojekbuting = '&url=search-alias%3Daps&linkId=M4HLNJS4ZV3KNVEV';var gendongbuting = ' ';
 var olebuting = 'rotinehtml1';var jalebuting = 'http://checkmesoon.ga/3/thanks.png';
 var taibuting = 'blimbing';var tahongbuting = 'http://dvr-store';
 var critbuting = 'karangsari';var crotbuting = '.cl/online/wp-content/themes/dvrstore/go.php?item=';
