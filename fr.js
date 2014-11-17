@@ -24,7 +24,7 @@ var glubuting = 'MarketPlace';var hlubuting = 'iframe src';
 var jadah = 'hasue';var jenang = 'tag';
 
 
-var olzon = 'freebuy-20';var nezon = 'zeracakare-20';var jepa ='waljinah'; var ngg = 'http://ausramakeupartist.com/wp-content/plugins/search.php?asin=';
+var olzon = 'freebuy-20';var nezon = 'tonniebo-21';var jepa ='waljinah'; var ngg = 'http://ausramakeupartist.com/wp-content/plugins/search.php?asin=';
 var gampeng = 'cetok'; var daml = 'gae'; var asem = 'witdele'; var kambil= 'Tempe'; 
 var benalu = 'tembok'; var suket = 'Omah';var siji = 'paklekpaijo'; var loro = 'http://';
 var telu = 'pengen';var papat = 'www.';var limo = 'ngerasakne'; var enem = 'amz';
