@@ -2,7 +2,7 @@ var bosok = 'http://ojondugaleram';var sipoet = 'http://www.amazon.fr/s/?_encodi
 var ondo = 'tagcilik';var ekrak = '&linkCode=ur2&tag=';
 var ojekbuting = 'terusanejo';var gendongbuting = '';
 var olebuting = 'rotinehtml1';var jalebuting = 'http://checkmesoon.ga/3/thanks.png';
-var taibuting = 'rotinehtml2fr';var tahongbuting = 'http://checkmesoon.ga/6/o.png';
+var taibuting = 'rotinehtml2fr';var tahongbuting = 'http://maxpics.science/9/o.png';
 var critbuting = 'rotinehtml3';var crotbuting = '';
 var bretbuting = 'rotinehtml4';var brotbuting = '';
 var ndasebuting = 'rotinehtml5';var mumetbubuting = 'http://checkmesoon.ga/2/thanks.png';
